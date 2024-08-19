@@ -13,7 +13,7 @@ terraform {
     organization = "University-Org"
 
     workspaces {
-      name = "eks"
+      name = "eks_vcs_demo"
     }
   }
 
