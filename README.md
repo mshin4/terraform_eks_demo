@@ -1,4 +1,4 @@
-# How to setup AWS EKS using Terraform
+# How to setup AWS EKS with Terraform and Github version control workflow
 
 | ITEM | VALUE | NOTES |
 |---|---|---|
